@@ -1,0 +1,33 @@
+.pepe{
+    color: white;
+    z-index: 9999;
+}
+body{
+    background-color: black;
+}
+.margen{
+    margin-top: 10%;
+}
+.time-text{
+    color: rgb(255, 96, 157);
+}
+.modal-bg{
+    background-color: rgb(227, 144, 235);
+}
+.popup-btn{
+    text-decoration: none;
+    color: white;
+}
+.popup-btn-back{
+    background-color: rgb(179, 43, 197);
+}
+.popup-btn-back:hover{
+    color: white;
+    background-color: rgb(208, 107, 221);
+}
+.text-everyday{
+    color: rgb(199, 199, 199);
+}
+.margen-abajo{
+    margin-bottom: 5%;
+}
