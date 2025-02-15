@@ -1,3 +1,7 @@
+* {
+    cursor: url('cur.cur'), auto;
+}
+ 
 .pepe{
     color: white;
     z-index: 9999;
